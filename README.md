@@ -235,9 +235,21 @@ This project is currently an MVP and has several areas for improvement:
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Contributing
+
+Contributions are welcome! If you'd like to improve this repository:
+
+1. Fork the repository.
+2. Create a feature branch.
+3. Make your changes.
+4. Commit with a clear message.
+5. Open a pull request.
+
+Please ensure all documentation is accurate, concise, and includes practical examples where applicable.
+
 ## Author
 
-**Rahimah Adufemi Sulayman**
+**Rahimah Sulayman**
 
 Cloud & DevOps Engineer | Azure | Kubernetes | Docker | Python
 
