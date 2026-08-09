@@ -188,7 +188,7 @@ Expected response:
 
 ## Testing
 
-The API has been manually validated locally and inside a Docker container using `curl`.
+The API has been manually validated locally and inside a Docker container using `curl`. It was also externally tested through a public HTTPS tunnel.
 
 ### Verified
 
