@@ -190,6 +190,16 @@ Expected response:
 
 The API has been manually validated locally and inside a Docker container using `curl`. It was also externally tested through a public HTTPS tunnel.
 
+## API Documentation
+
+The ShortLink API provides interactive OpenAPI documentation through Swagger UI.
+
+When the application is running locally, the documentation is available at:
+
+```text
+http://localhost:8000/docs
+```
+
 ### Verified
 
 - Health endpoint returns `200 OK`
