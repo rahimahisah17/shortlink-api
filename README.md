@@ -261,7 +261,7 @@ Please ensure all documentation is accurate, concise, and includes practical exa
 
 **Rahimah Sulayman**
 
-Cloud & DevOps Engineer | Azure | Kubernetes | Docker | Python
+Cloud & DevOps Engineer | Azure | Kubernetes | Docker 
 
 - GitHub: [@rahimahisah17](https://github.com/rahimahisah17)
 - Project Repository: [ShortLink API](https://github.com/rahimahisah17/shortlink-api)
